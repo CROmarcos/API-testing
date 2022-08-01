@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Bulbasaur",
+        "image": "images/bulbasaur.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Ivysaur",
+        "image": "images/ivysaur.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Venusaur",
+        "image": "images/venusaur.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Charmander",
+        "image": "images/charmander.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Charmeleon",
+        "image": "images/charmeleon.jpg"
+    }
+]
